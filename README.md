@@ -1,1 +1,1 @@
-Kubernetes deployment with flask ap
+Kubernetes deployment with flask
